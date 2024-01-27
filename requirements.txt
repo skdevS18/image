@@ -6,19 +6,15 @@ tensorflow==2.15.0
 
 
 
-keras==2.13.1
 
-matplotlib==3.8.2
 
 numpy==1.24.3
 
-pandas==2.1.4
-pillow==10.2.0
 
 
 
-streamlit==1.29.0
 
-tensorflow==2.13.1
+
+
 
 
